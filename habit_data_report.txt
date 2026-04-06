@@ -1,0 +1,22 @@
+--- HABIT TRACKER FINAL REPORT ---
+
+Habit: Reading
+Target: 3
+Total Completed: 1
+Completion Rate: 33.3%
+------------------------------
+Habit: Running
+Target: 2
+Total Completed: 1
+Completion Rate: 50.0%
+------------------------------
+Habit: Playing Tennis
+Target: 1
+Total Completed: 1
+Completion Rate: 100.0%
+------------------------------
+Habit: Exercise
+Target: 3
+Total Completed: 1
+Completion Rate: 33.3%
+------------------------------
